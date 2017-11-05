@@ -1,6 +1,6 @@
 # Build Repository on Windows
 
-## Prerequisites
+## Prerequisites
 
 In order to build and contribute to this project you will need git for windows and a code editor that works with c#.
 
@@ -12,6 +12,7 @@ In order to build and contribute to this project you will need git for windows a
 1. Clone repository ```git clone https://github.com/ChilliCream/EventSourceGenerator.git```
 1. Open a powershell console window and switch to the repository root.
 1. Run the build script:
+
 ```powershell
 .\build.ps1
 ```
